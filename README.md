@@ -1,2 +1,4 @@
 # first-demo
-this is demo repo for learning github
+This is first demo repo for learning github
+<br>
+Created by - Deep Gajjar
